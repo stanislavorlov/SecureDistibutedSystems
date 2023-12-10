@@ -37,39 +37,27 @@
 
 1. Download and unzip sample project.
 
-![A screen shot of a computer
-
-Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.001.png)
+![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.001.png)
 
 # Step 2 Understanding Terraform Code
 
 1. Replace student id:
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.002.png)
+![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.002.png)
 
 # Step 3 Update key VM Settings
 
 1. Update key VM settings with created key-pair name
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.003.png)
+![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.003.png)
 
 1. Launching a new EC2 instance
 
-![A screenshot of a computer
+![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.004.png)
 
-Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.004.png)
+![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.005.png)
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.005.png)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.006.png)
+![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.006.png)
 # Step 4 Configure AWS Credentials for AWS CLI
 
 ![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.007.png)
@@ -77,9 +65,7 @@ Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7
 
 terraform init
 
-![A screenshot of a computer program
-
-Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.008.png)
+![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.008.png)
 
 terraform validate
 
@@ -92,9 +78,7 @@ terraform validate
 
 terraform plan
 
-![A screenshot of a computer screen
-
-Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.010.png)
+![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.010.png)
 
 
 
@@ -109,9 +93,7 @@ Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7
 
 List of planned of actions to be performed
 
-![A screenshot of a computer program
-
-Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.011.png)
+![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.011.png)
 
 Applying infrastructure changes
 
@@ -123,20 +105,14 @@ Getting and error about invalid key pair
 
 Updating with personal Key Pair information
 
-![A computer code with text
-
-Description automatically generated with medium confidence](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.014.png)
+![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.014.png)
 
 Message regarding successful instance creation
 
-![A computer screen with white text
-
-Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.015.png)
+![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.015.png)
 # Step 6 Checking Deployed Resources
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.016.png)
+![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.016.png)
 
 
 
@@ -145,18 +121,12 @@ Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7
 
 Connecting to deployed EC2 instance
 
-![A computer screen with a black background
-
-Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.017.png)
+![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.017.png)
 # Step 7 Destroying AWS EC2 Resources
 
-![A computer screen with white text
+![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.018.png)
 
-Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.018.png)
-
-![A screenshot of a computer screen
-
-Description automatically generated](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.019.png)
+![](Aspose.Words.bc3fda0b-976b-4d55-87a7-0125b7d4efef.019.png)
 
 Висновки:
 
